@@ -23,7 +23,7 @@ me = Human()
 me.say_hi()
 ```
 
-### btw, i use-
+### `btw, i use-`
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
@@ -60,7 +60,7 @@ me.say_hi()
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-**Let me tell you joke: VS Code**
+`Let me tell you joke: VS Code`
 
 ### my socials, but i ain't social so-
 
