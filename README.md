@@ -56,13 +56,13 @@ me.say_hi()
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### editor-
-
+### editor, vs-ahem is for ahem-noobs-
+*and people with fast computers*
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ### my socials, but i ain't social so-
 
-![Instagram](https://img.shields.io/badge/%5Fzamarth%5F-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/%5Fzamarth%5F-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_zamarth_/)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Twitter](https://img.shields.io/badge/zzamarth-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
