@@ -63,6 +63,6 @@ me.say_hi()
 ### my socials, but i ain't social so-
 
 [![Instagram](https://img.shields.io/badge/%5Fzamarth%5F-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_zamarth_/)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Twitter](https://img.shields.io/badge/zzamarth-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/samarthkulshrestha)
+[![Twitter](https://img.shields.io/badge/zzamarth-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zzamarth)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bjilri80ywhparj4zbzndthc9)
