@@ -56,9 +56,11 @@ me.say_hi()
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### editor, vs-ahem is for ahem-noobs-
-*and people with fast computers*
+### editor-
+
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+
+**Let me tell you joke: VS Code**
 
 ### my socials, but i ain't social so-
 
