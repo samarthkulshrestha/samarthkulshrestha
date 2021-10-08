@@ -1,27 +1,27 @@
 ![samarth kulshrestha](./header.png)
 
-    ```python
-    #!/usr/bin/python
-    # -*- coding: utf-8 -*-
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-    class Human:
+class Human:
 
-        def __init__(self):
-            self.name = "Samarth Kulshrestha"
-            self.nickname = "sam"
-            self.role = "professional nerd"
-            self.pronouns = ["he", "him"]
-            self.interests = ["tech", "literature", "art", "math"]
-            self.currently_messing_with = "generative systems"
+    def __init__(self):
+        self.name = "Samarth Kulshrestha"
+        self.nickname = "sam"
+        self.role = "professional nerd"
+        self.pronouns = ["he", "him"]
+        self.interests = ["tech", "literature", "art", "math"]
+        self.currently_messing_with = "generative systems"
 
-        def say_hi(self):
-            print("hello, hello <3")
+    def say_hi(self):
+        print("hello, hello <3")
 
 
-    me = Human()
-    me.say_hi()
-    ```
+me = Human()
+me.say_hi()
+```
 
 ### btw, i use-
 
