@@ -1,1 +1,1 @@
-[samarth kulshrestha](./header.png)
+![samarth kulshrestha](./header.png)
