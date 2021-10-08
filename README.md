@@ -1,8 +1,5 @@
 ### hello hello, samarth (sam) here :D
 
-- 🔭 i’m currently working on a text-based game, or you could call it *interactive fiction*
-- 🌱 i’m trying to learn:
-  - storytelling
-  - writing
-  - design
-  - living life <3
+i'm a full stack web developer, also a tech enthusiast, and to balance things out, i'm also really into literature and art. currently trying out generative systems, they're fun.
+
+<3
