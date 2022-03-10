@@ -11,10 +11,11 @@ class Human:
         self.name = "Samarth Kulshrestha"
         self.pronouns = ["He", "Him"]
         self.interests = ["Technology", "Software", "Literature", "Art", "Mathematics", "Physics"]
-        self.os = ["GNU + Linux (Arch btw)"]
+        self.personality_type = "INTP-T"
+        self.os = ["GNU + Linux (Arch BTW)"]
         self.languages = ["Python", "TypeScript", "JavaScript", "C", "C++"]
         self.software = ["REST APIs", "GraphQL APIs", "Linux System Administration"]
-        self.editor = ["NeoVim"]
+        self.favourite_tools = ["NeoVim", "Tmux", "Alacritty", "Git", "DWM"]
 
     def say_hi(self):
         print("hello, hello <3")
