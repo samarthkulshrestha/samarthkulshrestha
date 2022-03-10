@@ -13,17 +13,21 @@ class Human:
         self.interests = ["Technology", "Software", "Literature", "Art", "Mathematics", "Physics"]
         self.personality_type = "INTP-T"
         self.os = ["GNU + Linux (Arch BTW)"]
-        self.languages = ["Python", "TypeScript", "JavaScript", "C", "C++"]
-        self.software = ["REST APIs", "GraphQL APIs", "Linux System Administration"]
-        self.favourite_tools = ["NeoVim", "Tmux", "Alacritty", "Git", "DWM"]
+        self.code = ["Python", "TypeScript", "JavaScript", "C", "C++", "HTML", "CSS"]
+        self.architecture = ["REST APIs", "GraphQL APIs", "Linux Sysadmin", "Frontend"]
+        self.tech = ["Flask", "Node", "Express", "Apollo", "TypeGraphQL", "React", "Next"]
+        self.tools = ["NeoVim", "Tmux", "Alacritty", "Git", "DWM"]
 
-    def say_hi(self):
-        print("hello, hello <3")
+    def 
 
 
 me = Human()
 me.say_hi()
 ```
+
+#### contribution graph
+![contribution graph](https://activity-graph.herokuapp.com/graph?username=samarthkulshrestha&bg_color=33354A&color=7AA2F7&line=AD8EE6&point=A8B0D6&hide_border=true)
+
 
 #### socials
 
