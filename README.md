@@ -1,5 +1,7 @@
 ![samarth kulshrestha](./header.png)
 
+### about me
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -18,18 +20,25 @@ class Human:
         self.tech = ["Flask", "Node", "Express", "Apollo", "TypeGraphQL", "React", "Next"]
         self.tools = ["NeoVim", "Tmux", "Alacritty", "Git", "DWM"]
 
-    def 
+    def greet(self, name):
+        print(f"Hello, {name} :D")
 
 
 me = Human()
-me.say_hi()
+me.greet(input("Enter you name: "))
 ```
 
-#### contribution graph
-![contribution graph](https://activity-graph.herokuapp.com/graph?username=samarthkulshrestha&bg_color=33354A&color=7AA2F7&line=AD8EE6&point=A8B0D6&hide_border=true)
+![tux](./tux.png)
 
+### contribution graph
 
-#### socials
+![contribution graph](https://activity-graph.herokuapp.com/graph?username=samarthkulshrestha&bg_color=20212e&color=fff&line=AD8EE6&point=7AA2F7&hide_border=true)
+
+### streak stats
+
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=samarthkulshrestha&theme=black-ice&hide_border=true&stroke=33354a&background=20212e&ring=ad8ee6&fire=7aa2f8&currStreakLabel=fff)
+
+### socials
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/702168378806370375/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/samarthkulshrestha)
