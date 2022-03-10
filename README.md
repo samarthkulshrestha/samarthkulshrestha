@@ -28,8 +28,6 @@ me = Human()
 me.greet(input("Enter you name: "))
 ```
 
-![tux](./tux.png)
-
 ### contribution graph
 
 ![contribution graph](https://activity-graph.herokuapp.com/graph?username=samarthkulshrestha&bg_color=20212e&color=fff&line=AD8EE6&point=7AA2F7&hide_border=true)
