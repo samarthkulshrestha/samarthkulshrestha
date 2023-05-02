@@ -28,10 +28,6 @@ me = Human()
 me.greet(input("Enter you name: "))
 ```
 
-### contribution graph
-
-![contribution graph](https://activity-graph.herokuapp.com/graph?username=samarthkulshrestha&bg_color=20212e&color=fff&line=AD8EE6&point=7AA2F7&hide_border=true)
-
 ### streak stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthkulshrestha&theme=black-ice&hide_border=true&stroke=33354a&background=20212e&ring=ad8ee6&fire=7aa2f8&currStreakLabel=fff" alt="streak stats" /></p>
