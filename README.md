@@ -11,21 +11,22 @@ class Human:
 
     def __init__(self):
         self.name = "Samarth Kulshrestha"
-        self.pronouns = ["He", "Him"]
-        self.interests = ["Technology", "Software", "Literature", "Art", "Mathematics", "Physics"]
-        self.personality_type = "INTP-T"
-        self.os = ["GNU + Linux (Arch BTW)"]
-        self.code = ["Python", "TypeScript", "JavaScript", "C", "C++", "HTML", "CSS"]
-        self.architecture = ["REST APIs", "GraphQL APIs", "Linux Sysadmin", "Frontend"]
-        self.tech = ["Flask", "Node", "Express", "Apollo", "TypeGraphQL", "React", "Next"]
-        self.tools = ["NeoVim", "Tmux", "Alacritty", "Git", "DWM"]
+        self.interests = ["Artificial Intelligence", "Software Engineering",
+                          "Philosophy", "Mathematics", "Literature"]
+        self.os = ["GNU/Linux (Arch BTW)", "BSD"]
+        self.code = ["Python", "C", "C++", "Rust", "TypeScript",
+                     "JavaScript", "Zig"]
+        self.skills = ["LLM Optimization", "Retrieval-Augmented Generation (RAG)",
+                       "High-Performance Computing", "Systems Programming"]
+        self.tech = ["Flask", "FastAPI", "LangChain", "ChromaDB", "FAISS",
+                     "PostgreSQL", "SQLite", "Docker", "Kubernetes"]
+        self.tools = ["NeoVim", "Tmux", "Git", "DWM"]
 
     def greet(self, name):
-        print(f"Hello, {name} :D")
-
+        print(f"Hello, {name}! :D")
 
 me = Human()
-me.greet(input("Enter you name: "))
+me.greet(input("Enter your name: "))
 ```
 
 ### streak stats
