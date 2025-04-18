@@ -31,7 +31,7 @@ me.greet(input("Enter your name: "))
 
 ### streak stats
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=samarthkulshrestha&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="streak stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=samarthkulshrestha&theme=tokyonight&hide_border=true" alt="streak stats" /></p>
 
 ### socials
 
